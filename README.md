@@ -6,9 +6,17 @@ many accounts without any user interaction, including high-profile ones.
 Facebook fixed both issues and awarded a combined bounty 
 Download&install
 apt-get install tor
-git clone 
+git clone:https://github.com/iamwithyou11/Bruteinsta 
+tor (run this tor service in another terminal)
 cd InstaBrute
 chmod +x insta.sh
 ./insta.sh
+
+![image](https://user-images.githubusercontent.com/71940288/220846940-f3c0e66f-505d-45e3-b711-bd001bf95a50.png)
+
+
+
+
+Disclaimer:This tool is only intended only for educational purposes.Usage of tool for Illegal activities is strictly prohibited and author of this tool is not  responsible for any kind of malicious activites 
 
 
