@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Instagram: @iam_with_you11
+# Instagram: @Folami_collection
 
 trap 'store;exit 1' 2
 string4=$(openssl rand -hex 32 | cut -c 1-4)
