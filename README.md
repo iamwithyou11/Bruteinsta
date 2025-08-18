@@ -1,4 +1,4 @@
-# Bruteinsta
+Bruteinsta
 Instagram contained two distinct vulnerabilities that allowed an attacker to brute-force
 passwords of user accounts. Combined with user enumeration, a weak password policy
 no 2FA nor other mitigating security controls, this could have allowed an attacker to compromise
@@ -23,6 +23,6 @@ Download&install
 
 
 
-Disclaimer:This tool is only intended only for educational purposes.Usage of tool for Illegal activities is strictly prohibited and author of this tool is not  responsible for any kind of malicious activites 
+Disclaimer:This tool is only intended only for educational purposes.Usage of tool for Illegal activities is strictly prohibited and author of this tool is not  responsible for any kind of malicious activites
 
 
