@@ -1,4 +1,4 @@
-# Bruteinsta
+# Bruteinstazain12al135
 Instagram contained two distinct vulnerabilities that allowed an attacker to brute-force
 passwords of user accounts. Combined with user enumeration, a weak password policy
 no 2FA nor other mitigating security controls, this could have allowed an attacker to compromise
